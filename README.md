@@ -1,7 +1,7 @@
 # Essence
 
 **Essence** is a lightweight, modern Essentials-style mod for Fabric servers.  
-It provides all the quality-of-life utilities you expect — homes, warps, TPA, spawn, jails, and more — built for performance, stability, and modded compatibility.
+It provides all the quality-of-life utilities you expect built for performance, stability, and modded compatibility.
 
 ---
 
