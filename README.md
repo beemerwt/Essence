@@ -31,6 +31,8 @@ It focuses on simplicity, persistence, and integration with modern systems like 
 ---
 
 ## ⚙️ Commands and Permissions
+> Essence can integrate with Fabric Permissions API or Luck Permissions (specified in the config)
+> If unavailable, it falls back to standard vanilla op levels.
 
 | Command | Description | Permission | Default |
 |----------|--------------|-------------|----------|
@@ -53,9 +55,6 @@ It focuses on simplicity, persistence, and integration with modern systems like 
 | `/unmute <player>` | Unmute a player | `essence.unmute` | OP 2 |
 | `/ban <player>` | Permanently ban a player | `essence.ban` | OP 2 |
 | `/tempban <player> <time> [reason]` | Temporarily ban a player | `essence.tempban` | OP 1 |
-
-> Essence automatically integrates with the Fabric Permissions API.  
-> If unavailable, it falls back to standard vanilla op levels.
 
 ---
 
